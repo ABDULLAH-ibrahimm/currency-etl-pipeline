@@ -7,7 +7,7 @@ An end-to-end **Data Engineering project** for automating currency exchange rate
 ## 🏗️ Architecture Overview
 
 ### 🔸 Workflow Diagram
-![Workflow](Images/etl_workflow_diagram.png.png)
+![Workflow](etl_workflow_diagram.png.png)
 
 ### 🔹 Components
 - **Streamlit App** — User interface to trigger ETL and visualize data.
