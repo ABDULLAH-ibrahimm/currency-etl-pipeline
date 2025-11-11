@@ -116,10 +116,9 @@ Dashboard available at `http://localhost:8501`
 * Pipeline completion emails are sent to:
 
   * `abdulllah02003@gmail.com`
-  * `ahmed.azab201829@gmail.com`
 * Each email includes:
 
-  * Latest exchange rate (e.g. `1 USD = 15.65 EGP`)
+  * Latest exchange rate (e.g. `1 USD = 47.65 EGP`)
   * Rate change percentage over the last 24 hours
   * Summary of ETL stages (Fetch → Transform → Load → Notify)
 
